@@ -9,19 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV Here](https://obj.umiacs.umd.edu/shing/Han_Chin_Shing_s_Resume.pdf)
-======
+# [Full CV Here](https://obj.umiacs.umd.edu/shing/Han_Chin_Shing_s_Resume.pdf)
 
 
-Education
-======
+## Education
+
 * Ph.D in Computer Science, University of Maryland, College Park, 2021 (expected)
 * M.S. in Computer Science, University of Maryland, College Park, 2019
 * B.S. in Electrical Engineering, National Taiwan University, 2014
 
 
-Work experience
-======
+## Work experience
+
 * Summer 2018: Intern NLP
   * 3M Health Information System
   * Designed and evaluated a real-world encounter-level medical coding model
@@ -35,14 +34,14 @@ Work experience
   * University of Maryland
   * Working with Prof. Philip Resnik and Prof. Doug Oard on suicidality assessment and information retrieval.
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
