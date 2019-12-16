@@ -6,6 +6,7 @@ excerpt: 'The vast majority of research in computer assisted medical coding focu
 date: 2019-11-15
 venue: 'Machine Learning for Health Workshop at NeurIPS 2019'
 paperurl: 'https://arxiv.org/abs/1911.06848'
+citation: 'Shing, Han-Chin, Guoli Wang, and Philip Resnik. "Assigning Medical Codes at the Encounter Level by Paying Attention to Documents." In Machine Learning for Health Workshop at NeurIPS, 2019.'
 ---
 
 ## Abstract

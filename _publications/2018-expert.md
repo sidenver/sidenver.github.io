@@ -6,6 +6,7 @@ excerpt: 'We report on the creation of a dataset for studying assessment of suic
 date: 2018-06-15
 venue: 'Proceedings of the Fifth Workshop on Computational Linguistics and Clinical Psychology: From Keyboard to Clinic'
 paperurl: 'https://www.aclweb.org/anthology/W18-0603.pdf'
+citation: 'Shing, Han-Chin, Suraj Nair, Ayah Zirikly, Meir Friedenberg, Hal Daum III, and Philip Resnik. "Expert, crowdsourced, and machine assessment of suicide risk via online postings." In Proceedings of the Fifth Workshop on Computational Linguistics and Clinical Psychology: From Keyboard to Clinic. 2018.'
 ---
 
 ## Abstract
