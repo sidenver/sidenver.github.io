@@ -6,7 +6,15 @@ excerpt: 'We report on the creation of a dataset for studying assessment of suic
 date: 2018-06-15
 venue: 'Proceedings of the Fifth Workshop on Computational Linguistics and Clinical Psychology: From Keyboard to Clinic'
 paperurl: 'https://www.aclweb.org/anthology/W18-0603.pdf'
-citation: 'Shing, Han-Chin, et al. "Expert, crowdsourced, and machine assessment of suicide risk via online postings." Proceedings of the Fifth Workshop on Computational Linguistics and Clinical Psychology: From Keyboard to Clinic. 2018.'
+citation: ```
+@inproceedings{shing2018expert,
+  title={Expert, crowdsourced, and machine assessment of suicide risk via online postings},
+  author={Shing, Han-Chin and Nair, Suraj and Zirikly, Ayah and Friedenberg, Meir and Daum{\'e} III, Hal and Resnik, Philip},
+  booktitle={Proceedings of the Fifth Workshop on Computational Linguistics and Clinical Psychology: From Keyboard to Clinic},
+  pages={25--36},
+  year={2018}
+}
+```
 ---
 
 ## Abstract
@@ -17,7 +25,7 @@ We report on the creation of a dataset for studying assessment of suicide risk v
 
 Recommended citation:
 
-"""
+```
 @inproceedings{shing2018expert,
   title={Expert, crowdsourced, and machine assessment of suicide risk via online postings},
   author={Shing, Han-Chin and Nair, Suraj and Zirikly, Ayah and Friedenberg, Meir and Daum{\'e} III, Hal and Resnik, Philip},
@@ -25,4 +33,4 @@ Recommended citation:
   pages={25--36},
   year={2018}
 }
-"""
+```
