@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Han-Chin Shing"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Han-Chin Shing"
 description              : &description "Ph.D. student at University of Maryland"
