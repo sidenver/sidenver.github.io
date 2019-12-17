@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Han-Chin Shing"
 description              : &description "Ph.D. student at University of Maryland"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Han-Chin Shing"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at the University of Maryland. Interested in applying NLP for the broader healthcare."
+  bio              : "Ph.D. student at the University of Maryland. Applying NLP for the broader healthcare."
   location         : "College Park, MD, USA"
   employer         :
   pubmed           : 

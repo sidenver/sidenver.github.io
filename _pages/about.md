@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Han-Chin Shing"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
