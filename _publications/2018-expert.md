@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-expert
 excerpt: 'We report on the creation of a dataset for studying assessment of suicide risk via online postings in Reddit. Evaluation of risk-level annotations by experts yields what is, to our knowledge, the first demonstration of reliability in risk assessment by clinicians based on social media postings.'
 date: 2018-06-15
-venue: 'Proceedings of the Fifth Workshop on Computational Linguistics and Clinical Psychology: From Keyboard to Clinic'
+venue: 'Proceedings of the Fifth Workshop on Computational Linguistics and Clinical Psychology: From Keyboard to Clinic (CLPsych)'
 paperurl: 'https://www.aclweb.org/anthology/W18-0603.pdf'
 ---
 

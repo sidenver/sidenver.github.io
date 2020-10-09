@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-encounter
 excerpt: 'We introduce encounter-level document attention networks, which use hierarchical attention to explicitly take the hierarchical structure of encounter documentation into account. Experimental evaluation demonstrates improvements in coding accuracy as well as facilitation of human reviewers in their ability to identify which documents within an encounter play a role in determining the encounter level codes.'
 date: 2019-11-15
-venue: 'Machine Learning for Health Workshop at NeurIPS 2019'
+venue: 'Machine Learning for Health Workshop (ML4H) at NeurIPS'
 paperurl: 'https://arxiv.org/abs/1911.06848'
 ---
 
