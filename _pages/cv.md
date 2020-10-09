@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# [Full CV Here](https://obj.umiacs.umd.edu/shing/Han_Chin_Shing_s_Resume.pdf)
+## [Full CV Here](https://obj.umiacs.umd.edu/shing/Han_Chin_Shing_s_Resume_DM.pdf)
 
 
 ## Education
@@ -21,17 +21,18 @@ redirect_from:
 
 ## Work experience
 
-* Summer 2018: Intern NLP
-  * 3M Health Information System
+* Amazon Comprehend Medical: Applied Scientist Intern
+  * Collaborated with research scientists and clinical practitioner on the problem of clinical summarization.
+  * Designed and developed state-of-the-art neural summarization models for clinical documents.
+
+* 3M Health Information System: NLP Intern
   * Designed and evaluated a real-world encounter-level medical coding model
   * Collaborated with an Agile team to implement evidence retrieval modules used in 3M Health Information Systems production.
 
-* Summer 2017: Intern NLP
-  * Johns Hopkins University
+* Johns Hopkins University: NLP Intern
   * Worked with Prof. Suchi Saria on disease annotation of clinical notes using ExpertSourcing.
 
-* Fall 2016 - Present: Graduate Research Assistant
-  * University of Maryland
+* University of Maryland: Graduate Research Assistant
   * Working with Prof. Philip Resnik and Prof. Doug Oard on suicidality assessment and information retrieval.
 
 ## Publications
