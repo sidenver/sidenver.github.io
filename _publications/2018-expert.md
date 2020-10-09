@@ -15,6 +15,8 @@ We report on the creation of a dataset for studying assessment of suicide risk v
 
 [Download paper here](https://www.aclweb.org/anthology/W18-0603.pdf)
 
+[Apply for dataset access](http://legacydirs.umiacs.umd.edu/~resnik/umd_reddit_suicidality_dataset.html), see the **How to Request Access** section.
+
 Recommended citation:
 
 ```

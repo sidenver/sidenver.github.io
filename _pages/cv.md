@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## [Full CV Here](https://obj.umiacs.umd.edu/shing/Han_Chin_Shing_s_Resume_DM.pdf)
+### [Link](https://obj.umiacs.umd.edu/shing/Han_Chin_Shing_s_Resume_DM.pdf) to the full CV
 
 
 ## Education
@@ -37,7 +37,7 @@ redirect_from:
 
 ## Publications
 
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
