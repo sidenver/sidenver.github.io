@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-suicidality
 excerpt: 'We reframe suicide risk assessment from social media as a ranking problem whose goal is maximizing detection of severely at-risk individuals given the time available. We introduce a well founded evaluation paradigm, and demonstrate using an expert-annotated test collection that meaningful improvements over plausible cascade model baselines can be achieved using an approach that jointly ranks individuals and their social media posts.'
 date: 2020-07-06
-venue: 'ACL 2020'
+venue: 'Association for Computational Linguistics (ACL)'
 paperurl: 'https://www.aclweb.org/anthology/2020.acl-main.723.pdf'
 ---
 
